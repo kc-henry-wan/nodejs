@@ -1,0 +1,15 @@
+{
+  "database": {
+    "username": "postgres",
+    "password": "henry",
+    "database": "postgres",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "mapApi": {
+    "url": "https://nominatim.openstreetmap.org/search"
+  },
+  "app": {
+    "port": 70
+  }
+}
